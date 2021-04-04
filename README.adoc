@@ -1,0 +1,16 @@
+= Spring Reactive example with WebFlux and Spring Data =
+
+This project born with the aim of make a simple reactive example
+with spring data and webflux
+
+You can read more about Spring Native and this example in:
+https://refactorizando.com/aplicacion-reactiva-webflux-spring-data-reactive
+
+== How does it work?
+
+This project works as a normal Spring Boot project to run on your local machine:
+
+
+    mvn spring-boot:run
+
+
